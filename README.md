@@ -1,4 +1,4 @@
-# first_repository
+# My first code!
 
 This is my first repository, 
 it contains the code I've written to manipulate and automate the tranferring of data from one excel file to another.
